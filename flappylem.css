@@ -1,0 +1,9 @@
+body {
+	font-family: "courier New", Courier, monospace;
+	text-align: center;
+}
+
+#board {
+	/* background-color: #0F0F0F; */ 
+	background-image: url("moonground.png");
+}
